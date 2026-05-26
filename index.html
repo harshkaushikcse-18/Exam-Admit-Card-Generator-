@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>MNIT Admit Card Generator</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+
+<body>
+
+    <div class="top-buttons">
+
+        <h2>MNIT Jaipur Admit Card Generator</h2>
+
+        <button onclick="generateCards()">
+            Show Preview
+        </button>
+
+        <button class="download-btn" onclick="downloadAllPDF()">
+            📥 Download Combined PDF
+        </button>
+
+    </div>
+
+    <div id="output"></div>
+
+    <!-- Student Data -->
+    <script src="data/students.js"></script>
+
+    <!-- Main JS -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
