@@ -33,7 +33,7 @@ function generateCards() {
                 <div class="header">
 
                     <div class="logo">
-                        <img src="assets/logo.png" alt="MNIT Logo">
+                        <img src="Assets/logo.png" alt="MNIT Logo">
                     </div>
 
                     <div class="header-center">
