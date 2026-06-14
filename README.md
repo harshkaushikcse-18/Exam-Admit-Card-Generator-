@@ -71,11 +71,11 @@ Add screenshots of the project here.
 
 Example:
 
-```md
-![Preview](Assets/demo.png)
-```
 
----
+![Preview](Assets/demo.png)
+
+
+
 
 ## Future Improvements
 
