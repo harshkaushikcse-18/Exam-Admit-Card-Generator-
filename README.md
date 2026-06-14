@@ -72,7 +72,7 @@ Add screenshots of the project here.
 Example:
 
 ```md
-![Preview](assets/preview.png)
+![Preview](assets/demo.png)
 ```
 
 ---
