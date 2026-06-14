@@ -1,5 +1,13 @@
 # MNIT Admit Card Generator
 
+## Screenshots
+
+Example:
+
+
+![Preview](Assets/demo.png)
+
+
 A frontend-based admit card generator built using HTML, CSS, JavaScript, html2canvas, and jsPDF.
 
 This project dynamically generates student admit cards and allows users to download all admit cards as a combined PDF document.
@@ -46,36 +54,6 @@ MNIT-Exam-Utility/
 ```
 
 ---
-
-## How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/mnit-admit-card-generator.git
-```
-
-2. Open the project folder in VS Code
-
-3. Run using Live Server extension
-
-4. Click:
-   - Show Preview
-   - Download Combined PDF
-
----
-
-## Screenshots
-
-Add screenshots of the project here.
-
-Example:
-
-
-![Preview](Assets/demo.png)
-
-
-
 
 ## Future Improvements
 
